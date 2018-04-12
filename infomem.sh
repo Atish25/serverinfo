@@ -1,6 +1,6 @@
 #!/bin/bash
 # Sample script written for Part 4 of the REDHAT
-echo -e "\e[31;96m**WRITTEN BY *** ATISH DAS(CISPL)*****\e[0m"
+echo -e "\e[31;96m**WRITTEN BY *** ATISH DAS(Devops)****\e[0m"
 echo -e "\e[31;43m***** HOSTNAME INFORMATION *****\e[0m"
 hostname
 echo ""
